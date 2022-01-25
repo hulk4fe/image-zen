@@ -1,0 +1,5 @@
+make: Entering directory `/Users/dengbenye/Workspace/github/image-zen'
+npm run build && node esm/index.js
+ 
+make: Leaving directory `/Users/dengbenye/Workspace/github/image-zen'
+ 
